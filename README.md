@@ -1,2 +1,2 @@
 # config-phobos
-phobos-config
+bú đi mấy em
